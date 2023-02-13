@@ -1,0 +1,3 @@
+This is an application using JS. Basically is an extension for chrome to save URL and delete it when you want.
+
+Developed using HTML, CSS, JS. In the JS, I used concepts of localStorage to save "leads" in local data.
